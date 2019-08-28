@@ -1,7 +1,7 @@
 package engines
 
 import (
-	"go-mybatis/GoFastExpress"
+	"github.com/hiapk1234/go-mybatis/GoFastExpress"
 	"strings"
 )
 

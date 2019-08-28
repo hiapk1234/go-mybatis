@@ -1,4 +1,4 @@
-module go-mybatis
+module github.com/hiapk1234/go-mybatis
 
 go 1.12
 

@@ -1,0 +1,14 @@
+github.com/Knetic/govaluate v3.0.0+incompatible h1:7o6+MAPhYTCF0+fdvoz1xDedhRb4f6s9Tn1Tt7/WTEg=
+github.com/Knetic/govaluate v3.0.0+incompatible/go.mod h1:r7JcOSlj0wfOMncg0iLm8Leh48TZaKVeNIfJntJ2wa0=
+github.com/antonmedv/expr v1.1.4 h1:ReeidbMJQZsujmBaYdaCEtfAvSH5bd/HHApjhyorBlE=
+github.com/antonmedv/expr v1.1.4/go.mod h1:AdVomDZyjUit6l23+Owki7ZHDtvJDjsaP4YmqB44OJA=
+github.com/beevik/etree v1.1.0 h1:T0xke/WvNtMoCqgzPhkX2r4rjY3GDZFi+FjpRZY2Jbs=
+github.com/beevik/etree v1.1.0/go.mod h1:r8Aw8JqVegEf0w2fDnATrX9VpkMcyFeM0FhwO62wh+A=
+github.com/go-sql-driver/mysql v1.4.1 h1:g24URVg0OFbNUTx9qqY1IRZ9D9z3iPyi5zKhQZpNwpA=
+github.com/go-sql-driver/mysql v1.4.1/go.mod h1:zAC/RDZ24gD3HViQzih4MyKcchzm+sOG5ZlKdlhCg5w=
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/nytlabs/gojee v0.0.0-20140331152115-5a79a1542dc0 h1:1de/FMBI8FBGkbOY52eyuV4xX9pSerAGQuaaj/5Wcs0=
+github.com/nytlabs/gojee v0.0.0-20140331152115-5a79a1542dc0/go.mod h1:m12KGQ2nN4fGxy+5fbn3yY0qVUX8p2f6X4h8DisEeuU=
+github.com/zhuxiujia/GoMybatis v5.1.6+incompatible h1:kcFFGktFKWL8hikx1xTuiM+uOdT00wQM0I5T0N75KXw=
+github.com/zhuxiujia/GoMybatis v5.1.6+incompatible/go.mod h1:t9CJ3HKMWSNXnAXQpm8JoYZ6L6bfxwm7Wxyrib54f0Y=

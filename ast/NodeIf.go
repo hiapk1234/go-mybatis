@@ -1,6 +1,6 @@
 package ast
 
-import "go-mybatis/utils"
+import "github.com/hiapk1234/go-mybatis/utils"
 
 //判断节点
 type NodeIf struct {

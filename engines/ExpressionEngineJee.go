@@ -2,7 +2,7 @@ package engines
 
 import (
 	"github.com/nytlabs/gojee"
-	"go-mybatis/utils"
+	"github.com/hiapk1234/go-mybatis/utils"
 	"bytes"
 	"encoding/json"
 	"strings"

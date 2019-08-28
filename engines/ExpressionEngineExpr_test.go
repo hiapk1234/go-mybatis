@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"go-mybatis/example"
-	"go-mybatis/utils"
+	"github.com/hiapk1234/go-mybatis/example"
+	"github.com/hiapk1234/go-mybatis/utils"
 )
 
 func TestExpressionEngineExpr_Eval(t *testing.T) {

@@ -2,8 +2,8 @@ package GoMybatis
 
 import (
 	"fmt"
-	"go-mybatis/example"
-	"go-mybatis/tx"
+	"github.com/hiapk1234/go-mybatis/example"
+	"github.com/hiapk1234/go-mybatis/tx"
 	"testing"
 	"time"
 )

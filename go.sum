@@ -4,3 +4,5 @@ github.com/beevik/etree v1.1.0 h1:T0xke/WvNtMoCqgzPhkX2r4rjY3GDZFi+FjpRZY2Jbs=
 github.com/beevik/etree v1.1.0/go.mod h1:r8Aw8JqVegEf0w2fDnATrX9VpkMcyFeM0FhwO62wh+A=
 github.com/go-sql-driver/mysql v1.4.1 h1:g24URVg0OFbNUTx9qqY1IRZ9D9z3iPyi5zKhQZpNwpA=
 github.com/go-sql-driver/mysql v1.4.1/go.mod h1:zAC/RDZ24gD3HViQzih4MyKcchzm+sOG5ZlKdlhCg5w=
+github.com/hiapk1234/go-mybatis/ast v0.0.0-20190828033521-2c918c1384fc h1:lDwMGcgcKAoBQR6EwamjnmbcAYxe5ThwYkMJV3q4vdc=
+github.com/hiapk1234/go-mybatis/ast v0.0.0-20190828033521-2c918c1384fc/go.mod h1:6MmlZ5Rqm18h21I4tOtApD73+ZS9hbCc6e+xnxnFoH0=

@@ -2,8 +2,8 @@ package GoMybatis
 
 import (
 	"fmt"
-	"go-mybatis/tx"
-	"go-mybatis/utils"
+	"github.com/hiapk1234/go-mybatis/tx"
+	"github.com/hiapk1234/go-mybatis/utils"
 	"reflect"
 	"strings"
 )

@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"github.com/Knetic/govaluate"
 	"github.com/beevik/etree"
-	"go-mybatis/engines"
-	"go-mybatis/example"
-	"go-mybatis/utils"
+	"github.com/hiapk1234/go-mybatis/engines"
+	"github.com/hiapk1234/go-mybatis/example"
+	"github.com/hiapk1234/go-mybatis/utils"
 	"testing"
 	"time"
 )

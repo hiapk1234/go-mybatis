@@ -1,8 +1,8 @@
 package GoMybatis
 
 import (
-	"go-mybatis/ast"
-	"go-mybatis/utils"
+	"github.com/hiapk1234/go-mybatis/ast"
+	"github.com/hiapk1234/go-mybatis/utils"
 )
 
 type ExpressionEngineProxy struct {

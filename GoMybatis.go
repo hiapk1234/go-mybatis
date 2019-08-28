@@ -3,8 +3,8 @@ package GoMybatis
 import (
 	"bytes"
 	"github.com/beevik/etree"
-	"go-mybatis/ast"
-	"go-mybatis/utils"
+	"github.com/hiapk1234/go-mybatis/ast"
+	"github.com/hiapk1234/go-mybatis/utils"
 	"log"
 	"reflect"
 	"strconv"

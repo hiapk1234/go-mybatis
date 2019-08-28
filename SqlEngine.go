@@ -2,8 +2,8 @@ package GoMybatis
 
 import (
 	"database/sql"
-	"go-mybatis/ast"
-	"go-mybatis/tx"
+	"github.com/hiapk1234/go-mybatis/ast"
+	"github.com/hiapk1234/go-mybatis/tx"
 )
 
 type Result struct {

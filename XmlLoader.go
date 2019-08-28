@@ -2,7 +2,7 @@ package GoMybatis
 
 import (
 	"github.com/beevik/etree"
-	"go-mybatis/utils"
+	"github.com/hiapk1234/go-mybatis/utils"
 	"reflect"
 )
 
